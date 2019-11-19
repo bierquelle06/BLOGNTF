@@ -1,2 +1,2 @@
-# TEDCRM
-TED CRM REPO
+# ONE
+Welcome to Blog Page.
